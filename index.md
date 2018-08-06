@@ -30,5 +30,5 @@ How about a to-do list? We all love those right?
 -[] Yeah?
 -[X] What did he say he was selling?
 
-Well that's not really a to-do list, but it will do. 
+Well that's not really a to-do list, but it will do.  
 
